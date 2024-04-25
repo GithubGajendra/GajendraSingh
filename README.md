@@ -1,7 +1,7 @@
 # [Gajendra Singh]
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/GithubGajendra)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/withgds)
+[![GitHub followers](https://img.shields.io/github/followers/GithubGajendra?style=social)](https://github.com/GithubGajendra)
+[![Twitter Follow](https://img.shields.io/twitter/follow/withgds?style=social)](https://twitter.com/withgds)
 
 ## About Me
 
@@ -50,9 +50,9 @@ I love to research in my free time and continuously explore new technologies to 
 ## 📫 Contact Me
 
 - LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Email: [Your Email Address](mailto:youremail@example.com)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
-- Personal Website/Blog: [Your Website](https://yourwebsite.com)
+- Email: [bswgajendra@gmail.com](mailto:bswgajendra@gmail.com)
+- Twitter: [@WithGds](https://twitter.com/withgds)
+- Personal Website/Blog: [Your Website](https://comingsoon)
 
 ## 📚 Latest Blog Posts
 
@@ -65,7 +65,7 @@ I love to research in my free time and continuously explore new technologies to 
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?GithubGajendra&show_icons=true&theme=dark)
 
 ## 🤝 Let's Connect
 
