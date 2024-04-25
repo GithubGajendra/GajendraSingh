@@ -1,17 +1,17 @@
-# [Your Name]
+# [Gajendra Singh]
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/GithubGajendra)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/withgds)
 
 ## About Me
 
-Hello, I'm [Gajendra Singh], a passionate [Your Profession/Role] based in [Your Location]. I have a strong background in programming and web development, and I specialize in the following technologies:
+Hello, I'm [Gajendra Singh], a passionate DATA SCIENCE AND AI Enthusiast currently pursuing my engineering in Data science and Artificial intelligence. I have a strong background in programming and web development, and I specialize in the following technologies:
 
 - **Programming Languages:** C, C++, Python, JavaScript
 - **Web Development:** HTML, CSS, Bootstrap framework, JavaScript
 - **Databases:** SQL, MySQL, MongoDB
 
-I love to [Your Passion/Hobbies] in my free time and continuously explore new technologies to expand my skillset.
+I love to research in my free time and continuously explore new technologies to expand my skillset.
 
 ## 🔧 Skills
 
